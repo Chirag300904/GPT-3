@@ -1,5 +1,5 @@
 import React from "react";
-import { Brand, CTA, Navbar } from "./components/index";
+import { Brand, Cta, Navbar } from "./components/index";
 import {
   Blog,
   Features,
@@ -21,7 +21,7 @@ function App() {
       <WhatGPT3 />
       <Features />
       <Possiblity />
-      <CTA />
+      <Cta />
       <Blog />
       <Footer />
     </div>
